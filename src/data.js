@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Developed a Front-end page to create a clicking game. Used JavaScript to handle clicks from a user.",
       image: "./clicker.gif",
-      link: "https://github.com/JavierMajano/ClickerGame",
+      link: "https://javiermajano.github.io/ClickerGame/",
     },
 
   ];
