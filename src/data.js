@@ -15,6 +15,14 @@ export const projects = [
       image: "./clicker.gif",
       link: "https://javiermajano.github.io/ClickerGame/",
     },
+    {
+      title: "Concsiour Caloric Tracker",
+      subtitle: " node.js, react, express, postgresql ",
+      description:
+        "Developed a Full Stack web application ",
+      image: "./clicker.gif",
+      link: "https://github.com/CTP-Calorie/project-starter/",
+    },
 
   ];
   export const skills = [
