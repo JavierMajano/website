@@ -1,5 +1,22 @@
 export const projects = [
-    {
+  {
+    title: "CrashMap May 2022",
+    subtitle: "React, Python, SQL , Docker",
+    description:
+      "Worked on a team to create a Full stack web application to visualize the statistics of vehicle collisions in NYC's borough & neighborhoods ",
+    image: "./CrashMap.png",
+    link: "https://drive.google.com/file/d/1yZNk_8uQv-nt6OcrwkkpReIEG2lHOozO/view",
+  }, 
+  {
+    title: "Concsiour Caloric Tracker December 2021",
+    subtitle: " node.js, react, express, postgresql ",
+    description:
+      "Worked on team to developed a Full Stack web application using NutritionIX API to track nutritional facts ",
+    image:"./logo512.png",
+    link: "https://github.com/CTP-Calorie/project-starter/",
+  }, 
+  
+  {
       title: "Weather API",
       subtitle: "HTML/CSS, JavaScript and Express.js",
       description:
@@ -15,14 +32,8 @@ export const projects = [
       image: "./clicker.gif",
       link: "https://javiermajano.github.io/ClickerGame/",
     },
-    {
-      title: "Concsiour Caloric Tracker",
-      subtitle: " node.js, react, express, postgresql ",
-      description:
-        "Developed a Full Stack web application ",
-      image: "./clicker.gif",
-      link: "https://github.com/CTP-Calorie/project-starter/",
-    },
+   
+   
 
   ];
   export const skills = [
@@ -31,5 +42,6 @@ export const projects = [
     "Node.js",
     "Express.js",
     "HTML/CSS",
-    "C++"
+    "C++",
+    "Java"
   ];

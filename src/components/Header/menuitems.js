@@ -20,11 +20,11 @@ export const MenuItems =[
         url: '#skills',
         cName: 'nav-links',
     },
-    {
-        title: 'Contact Me',
-        url: '#Contact',
-        cName: 'nav-links',
-    },
+    // {
+    //     title: 'Contact Me',
+    //     url: '#Contact',
+    //     cName: 'nav-links',
+    // },
    
     {
         title: 'sign in',
