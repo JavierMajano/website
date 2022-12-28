@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.b78e0de8.chunk.css",
+    "main.js": "/website/static/js/main.1f09341b.chunk.js",
+    "main.js.map": "/website/static/js/main.1f09341b.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.ec6b0f4d.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.ec6b0f4d.js.map",
+    "static/js/2.5a56fcd8.chunk.js": "/website/static/js/2.5a56fcd8.chunk.js",
+    "static/js/2.5a56fcd8.chunk.js.map": "/website/static/js/2.5a56fcd8.chunk.js.map",
+    "static/js/3.23c466a3.chunk.js": "/website/static/js/3.23c466a3.chunk.js",
+    "static/js/3.23c466a3.chunk.js.map": "/website/static/js/3.23c466a3.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/main.b78e0de8.chunk.css.map": "/website/static/css/main.b78e0de8.chunk.css.map",
+    "static/js/2.5a56fcd8.chunk.js.LICENSE.txt": "/website/static/js/2.5a56fcd8.chunk.js.LICENSE.txt",
+    "static/media/Majano_Javier_Resume_2022.25273527.pdf": "/website/static/media/Majano_Javier_Resume_2022.25273527.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6b0f4d.js",
+    "static/js/2.5a56fcd8.chunk.js",
+    "static/css/main.b78e0de8.chunk.css",
+    "static/js/main.1f09341b.chunk.js"
+  ]
+}
